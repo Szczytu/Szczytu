@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋
-I am an electronic engineer and an electrical enthusiast. I graduated from the University of Technology in Rzeszów with a Master's degree in Electronics and Telecommunications, specialising in Electronic Systems.
+I am an electronic engineer and an electrical enthusiast. I graduated from the University of Technology in Rzeszów with a Master's degree in Electronics and Telecommunications, specialising in Electronic Systems. I also repair motherboards from laptops and other electronic devices.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/szczytu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/paweł-wróbel-965a1b2b4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@szczytuakapawulonik1123) 
