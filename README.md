@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋
+Hi there 👋
 I am an electronic engineer and an electrical enthusiast. I graduated from the University of Technology in Rzeszów with a Master's degree in Electronics and Telecommunications, specialising in Electronic Systems.
 
 ## 🌐 Socials:
